@@ -7,7 +7,7 @@ format:
     #margin: 0
     width: 1600
     height: 900
-    theme: [default, ../../assets/theme/slides.scss]
+    theme: [default, ../../assets/slides.scss]
     logo: "../../figures/ENSGSI.png"
     embed-resources: false
     echo: true
@@ -15,7 +15,7 @@ format:
     #toc-title: Agenda for today
     #toc-depth: 1
     center: false
-    number-sections: true
+    number-sections: false
     fig-align: center
     code-copy: true        
     header-logo: "../../figures/UL.png"
@@ -27,8 +27,8 @@ format:
 #use reveal-header extension if you need both header and footer on slides. They are declared in the presentation.qmd file
 filters:
   - reveal-header
-#  - reveal-auto-agenda
+  - reveal-auto-agenda
 #slide-level: 3
-#auto-agenda:
-#  bullets: numbered
-#  heading: Agenda for the meeting 
+auto-agenda:
+  bullets: numbered
+  heading: Agenda for today

@@ -1,5 +1,5 @@
 ---
-title: "Introduction to DRAM"
+title: "Introduction to Distribute Recycling"
 subtitle: "<img src='../../figures/ENSGSI.png' width='500'>"  
 email: "cruzsanc1@univ-lorraine.fr"
 institute: "Université de Lorraine | Licence Fab Add"
@@ -37,50 +37,143 @@ URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
 ```
 
 
-# Plastic Recycling
+# Goal & Inspiration
 
-## Green Comp {.BG-GSI-1} 
+## Goal 
 
-Testing deux
-
-Ahi
-Y ahora
+> Introduction to the Plastic Issues and how  Additive Manufacturing can help
 
 
-aho es
+## Plastics
 
-:::{.Large}
-This is a footnotes
+
+```{r, include=TRUE, echo=FALSE, fig.cap=" ", out.width = '90%', fig.align='center'}
+knitr::include_graphics(paste0(URL, 'Plastics/Plastics-01.png'))
+```
+
+
+
+Source. Plastics Europe 2018
+
+## {.unnumbered background-image=`r paste0(URL, 'Plastics/Plastic-problem-00.jpg')` background-size=80%}
+
+
+## Inspiration 
+
+{{< video https://www.youtube.com/embed/Os7dREQ00l4  width="100%" height="800" >}}
+
+
+https://preciousplastic.com/
+
+
+
+# Plastic Issues
+
+
+## The problem {.unnumbered background-image=`r paste0(URL, 'Plastics/Plastic-problem-00.jpg')` background-size=80%}
+
+## The problem {.unnumbered background-image=`r paste0(URL, 'Plastics/Plastic-problem-01.jpg')` background-size=80%}
+
+## The problem {.unnumbered background-image=`r paste0(URL, 'Plastics/Plastic-problem-02.jpg')` background-size=80%}
+
+## The problem {.unnumbered background-image=`r paste0(URL, 'Plastics/Plastic-problem-03.svg')` background-size=80%}
+
+
+::: footnote
+Geyer, R., Jambeck, J.R., Law, K.L., 2017. Production, use, and fate of all plastics ever made. Sci. Adv. 3, e1700782. https://doi.org/10.1126/sciadv.1700782
 :::
 
 
-# This is a etst
-This is a project
 
-What are the Sustainability competences for future Education?
+## What is Plastic Recycling?
 
 
 
-# Section 1 
+## What is Plastic Recycling?
 
-Test
+```{r, include=TRUE, echo=FALSE, fig.cap=" ", out.width = '100%', fig.align='center'}
+knitr::include_graphics(paste0(URL, 'Recycling/Polymer-recycling-01.png'))
+```
 
-## Rhi is {background-color="aquamarine"}
-
-## This is a subtitle {.BG-GSI-1} 
+## What is Plastic Recycling?
 
 
+```{r, include=TRUE, echo=FALSE, fig.cap=" ", out.width = '75%', fig.align='center'}
+knitr::include_graphics(paste0(URL, 'Recycling/Polymer-recycling-00.png'))
+```
 
-# Section 2
+::: {.scriptsize}
 
-## This is a subtitle 2 {.BG-GSI-2} 
+- **Reuse**: New use of the original object
+- **Mechanical Recycling:** Recovers clean plastics products  in order to reuse in the manufacturing process
+- Chemical Recycling: Recover synthesis monomers or feedstock chemicals by depolymerization.
+- Feedstock Recycling: Break down the solid polymeric materials into a spectrum of basic chemical components.
+- Energy recovery: Generation of energy (Pyrolisis)
 
-:::{.footnote}
-This is a footnotes
+:::
+
+::: footnote
+Kranzinger et al (2018). Output-oriented analysis of the wet mechanical processing of polyolefin-rich waste for feedstock recycling. Waste Manag. Res. 36, 445–453
 :::
 
 
-# Section 3
+## Mechanical Recycling
 
-## Title
+```{r, include=TRUE, echo=FALSE, fig.cap=" ", out.width = '100%', fig.align='center'}
+knitr::include_graphics(paste0(URL, 'Recycling/Mechanical/Mechanical-recycling-00.png'))
+```
+
+
+# How Additive Manufacturing can contribute?
+
+
+## Why Additive manufacturing is important, according to you?
+
+```{r, include=TRUE, echo=FALSE, fig.cap=" ", out.width = '100%', fig.align='center'}
+knitr::include_graphics(paste0(URL, 'Figures/AM/Importance/AM-Importance-00.png'))
+```
+
+
+
+
+Hossain, M., 2020. Additive Manufacturing and the COVID-19 challenges : An in-depth study Additive Manufacturing and the COVID-19 challenges : An in-depth study. https://doi.org/10.13140/RG.2.2.35767.55206
+
+
+
+
+## Why Additive manufacturing is important, according to you?
+
+```{r, include=TRUE, echo=FALSE, fig.cap=" ", out.width = '100%', fig.align='center'}
+knitr::include_graphics(paste0(URL, 'Figures/AM/Reprap-00.png'))
+```
+
+
+
+
+
+
+## Open source as driver
+
+
+```{r, include=TRUE, echo=FALSE, fig.cap=" ", out.width = '100%', fig.align='center'}
+knitr::include_graphics(paste0(URL, 'Figures/AM/Reprap-01.png'))
+```
+
+---
+
+## Future of Additive Manufacturing
+
+
+```{r figurename, include=TRUE, echo=FALSE, fig.cap=" ", out.width = '100%', fig.align='center'}
+knitr::include_graphics(paste0(URL, 'DRAM/AM-future.png'))
+```
+
+---
+
+
+# First steps for recycling
+
+## Test with holipresse
+
+
 
