@@ -82,7 +82,7 @@ $presentation-heading-font: Roboto, sans-serif !default;
 .quarto-title-block {
   &:is(.slide-background.present) {
     //content: "";  
-    background-image: url('../../../../../../figures/BG-01.png');
+    background-image: url('../../../../../../../../figures/BG-01.png');
     @include background-full;
     opacity: 0.9;    
     }
