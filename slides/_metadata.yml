@@ -10,7 +10,7 @@ format:
     theme: [default, ../../assets/slides.scss]
     logo: "../../figures/ENSGSI.png"
     embed-resources: false
-    echo: true
+    echo: false
     #toc: true
     #toc-title: Agenda for today
     #toc-depth: 1

@@ -37,12 +37,32 @@ URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
 ```
 
 
+
+# Questions
+
+
+
+## Is additive manufacturing greener than traditional processes? {.center}
+
+## Is recycling a priority for additive manufacturing ? {.center}
+
+
+
 # Goal & Inspiration
 
 ## Goal 
 
 > Introduction to the Plastic Issues and how  Additive Manufacturing can help
 
+```{dot}
+graph G {
+  layout=neato
+  AM -- Recycling;
+  Recycling -- Green;
+  Recycling -- AM;
+  Green -- AM;
+}
+```
 
 ## Plastics
 
@@ -50,7 +70,6 @@ URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
 ```{r, include=TRUE, echo=FALSE, fig.cap=" ", out.width = '90%', fig.align='center'}
 knitr::include_graphics(paste0(URL, 'Plastics/Plastics-01.png'))
 ```
-
 
 
 Source. Plastics Europe 2018
