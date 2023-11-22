@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Distribute Recycling"
+title: "Introduction to Distributed Recycling"
 subtitle: "<img src='../../figures/ENSGSI.png' width='500'>"  
 email: "cruzsanc1@univ-lorraine.fr"
 institute: "Université de Lorraine | Licence Fab Add"
@@ -38,13 +38,7 @@ URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
 
 
 
-# Questions
 
-
-
-## Is additive manufacturing greener than traditional processes? {.center}
-
-## Is recycling a priority for additive manufacturing ? {.center}
 
 
 
@@ -64,17 +58,17 @@ graph G {
 }
 ```
 
-## Plastics
 
 
-```{r, include=TRUE, echo=FALSE, fig.cap=" ", out.width = '90%', fig.align='center'}
-knitr::include_graphics(paste0(URL, 'Plastics/Plastics-01.png'))
-```
+## Additive manufacturing for you ? {.center}
+
+## Is additive manufacturing greener than traditional processes? {.center}
+
+## Is recycling a priority for additive manufacturing ? {.center}
+
+## In future, can 3D printed everything ? is it 'good'? or is it 'bad'?
 
 
-Source. Plastics Europe 2018
-
-## {.unnumbered background-image=`r paste0(URL, 'Plastics/Plastic-problem-00.jpg')` background-size=80%}
 
 
 ## Inspiration 
@@ -85,8 +79,19 @@ Source. Plastics Europe 2018
 https://preciousplastic.com/
 
 
-
 # Plastic Issues
+
+
+## Plastics
+
+```{r, include=TRUE, echo=FALSE, fig.cap=" ", out.width = '90%', fig.align='center'}
+knitr::include_graphics(paste0(URL, 'Plastics/Plastics-01.png'))
+```
+
+
+Source. Plastics Europe 2018
+
+## {.unnumbered background-image=`r paste0(URL, 'Plastics/Plastic-problem-00.jpg')` background-size=80%}
 
 
 ## The problem {.unnumbered background-image=`r paste0(URL, 'Plastics/Plastic-problem-00.jpg')` background-size=80%}
