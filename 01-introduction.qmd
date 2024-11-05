@@ -1,0 +1,33 @@
+---
+title: "Introduction to Distributed Recycling"
+subtitle: "<img src='figures/ENSGSI.png' width='500'>"  
+email: "cruzsanc1@univ-lorraine.fr"
+institute: "Université de Lorraine | Licence Fab Add"
+author: 
+  - "MdC. Fabio A. CRUZ SANCHEZ"
+date: 11-Nov-2024
+format:
+  revealjs:
+    footer: 'Introduction'
+---
+
+
+
+# Goal & Inspiration
+
+## Goal
+
+> Introduction to the Plastic Issues and how  Additive Manufacturing can help.
+
+
+
+```{dot}
+graph G {
+  layout=neato
+  AM -- Recycling;
+  Recycling -- Green;
+  Recycling -- AM;
+  Green -- AM;
+}
+```
+

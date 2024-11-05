@@ -4,7 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,700,400italic,700italic);
 
 // fonts
-$font-family-sans-serif: Lato, sans-serif !default;
+$font-family-sans-serif: Roboto, sans-serif !default;
 
 
 
@@ -62,7 +62,7 @@ $presentation-heading-font: Roboto, sans-serif !default;
 .BG-GSI-1 {
 &:is(.slide-background.present) {
   //content: "";  
-  background-image: url('../../../../../../figures/BG-01.png');
+  background-image: url('../../../../../figures/BG-01.png');
   @include background-full;
   }
 }

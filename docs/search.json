@@ -1,247 +1,767 @@
 [
   {
-    "objectID": "slides/01-introduction/index.html#green-comp",
-    "href": "slides/01-introduction/index.html#green-comp",
-    "title": "Introduction to DRAM",
-    "section": "5.1 Green Comp",
-    "text": "5.1 Green Comp\nThe\naho es\n\nThis is a footnotes"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#rhi-is",
-    "href": "slides/01-introduction/index.html#rhi-is",
-    "title": "Introduction to DRAM",
-    "section": "7.1 Rhi is",
-    "text": "7.1 Rhi is"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#this-is-a-subtitle",
-    "href": "slides/01-introduction/index.html#this-is-a-subtitle",
-    "title": "Introduction to DRAM",
-    "section": "7.2 This is a subtitle",
-    "text": "7.2 This is a subtitle"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#this-is-a-subtitle-2",
-    "href": "slides/01-introduction/index.html#this-is-a-subtitle-2",
-    "title": "Introduction to DRAM",
-    "section": "8.1 This is a subtitle 2",
-    "text": "8.1 This is a subtitle 2\n\nThis is a footnotes"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#title",
-    "href": "slides/01-introduction/index.html#title",
-    "title": "Introduction to DRAM",
-    "section": "9.1 Title",
-    "text": "9.1 Title\n\n\n\nIntroduction\n\n\n\n\n\n\n \n\n\nPresentation"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "List of presentations",
     "section": "",
-    "text": "The list of presentations\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nAuthor\n\n\nDate\n\n\nReading Time\n\n\n\n\n\n\nIntroduction to Distributed Recycling\n\n\nMdC. Fabio A. CRUZ SANCHEZ\n\n\nNov 20, 2023\n\n\n2 min\n\n\n\n\n\n\nNo matching items"
+    "text": "The list of presentations\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nAuthor\n\n\nDate\n\n\nReading Time\n\n\n\n\n\n\nIntroduction to Distributed Recycling\n\n\nMdC. Fabio A. CRUZ SANCHEZ\n\n\nNov 5, 2024\n\n\n4 min\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#licence-fabrication-additive",
     "href": "index.html#licence-fabrication-additive",
     "title": "List of presentations",
     "section": "",
-    "text": "The list of presentations\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nAuthor\n\n\nDate\n\n\nReading Time\n\n\n\n\n\n\nIntroduction to Distributed Recycling\n\n\nMdC. Fabio A. CRUZ SANCHEZ\n\n\nNov 20, 2023\n\n\n2 min\n\n\n\n\n\n\nNo matching items"
+    "text": "The list of presentations\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nAuthor\n\n\nDate\n\n\nReading Time\n\n\n\n\n\n\nIntroduction to Distributed Recycling\n\n\nMdC. Fabio A. CRUZ SANCHEZ\n\n\nNov 5, 2024\n\n\n4 min\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "slides/01-introduction/index.html#goal",
     "href": "slides/01-introduction/index.html#goal",
     "title": "Introduction to Distributed Recycling",
     "section": "Goal",
-    "text": "Goal\n\nIntroduction to the Plastic Issues and how Additive Manufacturing can help\n\n\n\n\n\n\n\n\nG\n\n  \n\nAM\n\n AM   \n\nRecycling\n\n Recycling   \n\nAM–Recycling\n\n   \n\nRecycling–AM\n\n   \n\nGreen\n\n Green   \n\nRecycling–Green\n\n   \n\nGreen–AM"
+    "text": "Goal\nIntroduction to the Additive Manufacturing can help to the Sustainability 🌎.\nParticularly to Plastic Issues ♻️.\n\n\n\n\n\n\n\nG\n\n\n\nAM\n\nAM\n\n\n\nRecycling\n\nRecycling\n\n\n\nAM--Recycling\n\n\n\n\nRecycling--AM\n\n\n\n\nSustainability\n\nSustainability\n\n\n\nSustainability--AM\n\n\n\n\nSustainability--Recycling",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
   },
   {
-    "objectID": "slides/01-introduction/index.html#plastics-the-problem",
-    "href": "slides/01-introduction/index.html#plastics-the-problem",
-    "title": "Introduction to DRAM",
-    "section": "2.1 Plastics: The problem",
-    "text": "2.1 Plastics: The problem\n\n.footnote[ Source. Plastics Europe 2018]"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#the-problem",
-    "href": "slides/01-introduction/index.html#the-problem",
+    "objectID": "slides/01-introduction/index.html#additive-manufacturing-for-you--center",
+    "href": "slides/01-introduction/index.html#additive-manufacturing-for-you--center",
     "title": "Introduction to Distributed Recycling",
-    "section": "The problem",
-    "text": "The problem"
+    "section": "Additive manufacturing for you ? {.center}",
+    "text": "Additive manufacturing for you ? {.center}\nWhat does it means?",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
   },
   {
-    "objectID": "slides/01-introduction/index.html#goal-inspiration",
-    "href": "slides/01-introduction/index.html#goal-inspiration",
-    "title": "Introduction to DRAM",
-    "section": "1.1 Goal & Inspiration",
-    "text": "1.1 Goal & Inspiration\n\nIntroduction to the Plastic Issues in Additive Manufacturing"
+    "objectID": "slides/01-introduction/index.html#is-additive-manufacturing-greener-than-traditional-processes-center",
+    "href": "slides/01-introduction/index.html#is-additive-manufacturing-greener-than-traditional-processes-center",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Is additive manufacturing greener than traditional processes? {.center}",
+    "text": "Is additive manufacturing greener than traditional processes? {.center}",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#is-recycling-a-priority-for-additive-manufacturing--center",
+    "href": "slides/01-introduction/index.html#is-recycling-a-priority-for-additive-manufacturing--center",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Is recycling a priority for additive manufacturing ? {.center}",
+    "text": "Is recycling a priority for additive manufacturing ? {.center}",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#in-future-can-3d-printed-everything--is-it-good-or-is-it-bad",
+    "href": "slides/01-introduction/index.html#in-future-can-3d-printed-everything--is-it-good-or-is-it-bad",
+    "title": "Introduction to Distributed Recycling",
+    "section": "In future, can 3D printed everything ? is it 'good'? or is it 'bad'?",
+    "text": "In future, can 3D printed everything ? is it 'good'? or is it 'bad'?",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
   },
   {
     "objectID": "slides/01-introduction/index.html#inspiration",
     "href": "slides/01-introduction/index.html#inspiration",
     "title": "Introduction to Distributed Recycling",
     "section": "Inspiration",
-    "text": "Inspiration\n\nhttps://preciousplastic.com/"
+    "text": "Inspiration\n\nhttps://preciousplastic.com/",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
   },
   {
     "objectID": "slides/01-introduction/index.html#plastics",
     "href": "slides/01-introduction/index.html#plastics",
     "title": "Introduction to Distributed Recycling",
     "section": "Plastics",
-    "text": "Plastics\n\nSource. Plastics Europe 2018"
+    "text": "Plastics\n\nSource. Plastics Europe 2018",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
   },
   {
-    "objectID": "slides/01-introduction/index.html#section",
-    "href": "slides/01-introduction/index.html#section",
-    "title": "Introduction to DRAM",
-    "section": "1.3 ",
-    "text": "1.3"
+    "objectID": "slides/01-introduction/index.html#unnumbered-background-imagehttpsrawgithubusercontentcomfabbiocruxfiguresmainplasticsplastic-problem-00jpg-background-size80",
+    "href": "slides/01-introduction/index.html#unnumbered-background-imagehttpsrawgithubusercontentcomfabbiocruxfiguresmainplasticsplastic-problem-00jpg-background-size80",
+    "title": "Introduction to Distributed Recycling",
+    "section": "{.unnumbered background-image=https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-00.jpg background-size=80%}",
+    "text": "{.unnumbered background-image=https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-00.jpg background-size=80%}",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
   },
   {
-    "objectID": "slides/01-introduction/index.html#what-is-plastic-recyclign",
-    "href": "slides/01-introduction/index.html#what-is-plastic-recyclign",
-    "title": "Introduction to DRAM",
-    "section": "2.2 What is Plastic Recyclign?",
-    "text": "2.2 What is Plastic Recyclign?\n\n\n\nReuse: New use of the original object\nMechanical Recycling: Recovers clean plastics products in order to reuse in the manufacturing process\nChemical Recycling: Recover synthesis monomers or feedstock chemicals by depolymerization.\nFeedstock Recycling: Break down the solid polymeric materials into a spectrum of basic chemical components.\nEnergy recovery: Generation of energy (Pyrolisis)\n\n\n\nKranzinger et al (2018). Output-oriented analysis of the wet mechanical processing of polyolefin-rich waste for feedstock recycling. Waste Manag. Res. 36, 445–453"
+    "objectID": "slides/01-introduction/index.html#the-problem-unnumbered-background-imagehttpsrawgithubusercontentcomfabbiocruxfiguresmainplasticsplastic-problem-00jpg-background-size80",
+    "href": "slides/01-introduction/index.html#the-problem-unnumbered-background-imagehttpsrawgithubusercontentcomfabbiocruxfiguresmainplasticsplastic-problem-00jpg-background-size80",
+    "title": "Introduction to Distributed Recycling",
+    "section": "The problem {.unnumbered background-image=https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-00.jpg background-size=80%}",
+    "text": "The problem {.unnumbered background-image=https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-00.jpg background-size=80%}",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
   },
   {
-    "objectID": "slides/01-introduction/index.html#what-is-plastic-recyclign-1",
-    "href": "slides/01-introduction/index.html#what-is-plastic-recyclign-1",
-    "title": "Introduction to DRAM",
-    "section": "2.2 What is Plastic Recyclign?",
-    "text": "2.2 What is Plastic Recyclign?\n\n.tiny[ Reuse: New use of the original object  Mechanical Recycling: .content-box-green[Recovers clean plastics products in order to reuse in the manufacturing process]  Chemical Recycling: Recover synthesis monomers or feedstock chemicals by depolymerization.  Feedstock Recycling: Break down the solid polymeric materials into a spectrum of basic chemical components.  Energy recovery: Generation of energy (Pyrolisis)]\n.footnote[ *Kranzinger, L., Pomberger, R., Schwabl, D., Flachberger, H., Bauer, M., Lehner, M., Hofer, W., 2018. Output-oriented analysis of the wet mechanical processing of polyolefin-rich waste for feedstock recycling. Waste Manag. Res. 36, 445–453]"
+    "objectID": "slides/01-introduction/index.html#the-problem-unnumbered-background-imagehttpsrawgithubusercontentcomfabbiocruxfiguresmainplasticsplastic-problem-01jpg-background-size80",
+    "href": "slides/01-introduction/index.html#the-problem-unnumbered-background-imagehttpsrawgithubusercontentcomfabbiocruxfiguresmainplasticsplastic-problem-01jpg-background-size80",
+    "title": "Introduction to Distributed Recycling",
+    "section": "The problem {.unnumbered background-image=https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-01.jpg background-size=80%}",
+    "text": "The problem {.unnumbered background-image=https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-01.jpg background-size=80%}",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#the-problem-unnumbered-background-imagehttpsrawgithubusercontentcomfabbiocruxfiguresmainplasticsplastic-problem-02jpg-background-size80",
+    "href": "slides/01-introduction/index.html#the-problem-unnumbered-background-imagehttpsrawgithubusercontentcomfabbiocruxfiguresmainplasticsplastic-problem-02jpg-background-size80",
+    "title": "Introduction to Distributed Recycling",
+    "section": "The problem {.unnumbered background-image=https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-02.jpg background-size=80%}",
+    "text": "The problem {.unnumbered background-image=https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-02.jpg background-size=80%}",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#the-problem-unnumbered-background-imagehttpsrawgithubusercontentcomfabbiocruxfiguresmainplasticsplastic-problem-03svg-background-size80",
+    "href": "slides/01-introduction/index.html#the-problem-unnumbered-background-imagehttpsrawgithubusercontentcomfabbiocruxfiguresmainplasticsplastic-problem-03svg-background-size80",
+    "title": "Introduction to Distributed Recycling",
+    "section": "The problem {.unnumbered background-image=https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-03.svg background-size=80%}",
+    "text": "The problem {.unnumbered background-image=https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-03.svg background-size=80%}\n::: footnote Geyer, R., Jambeck, J.R., Law, K.L., 2017. Production, use, and fate of all plastics ever made. Sci. Adv. 3, e1700782. https://doi.org/10.1126/sciadv.1700782 :::",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
   },
   {
     "objectID": "slides/01-introduction/index.html#what-is-plastic-recycling",
     "href": "slides/01-introduction/index.html#what-is-plastic-recycling",
     "title": "Introduction to Distributed Recycling",
     "section": "What is Plastic Recycling?",
-    "text": "What is Plastic Recycling?"
+    "text": "What is Plastic Recycling?",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
   },
   {
     "objectID": "slides/01-introduction/index.html#what-is-plastic-recycling-1",
     "href": "slides/01-introduction/index.html#what-is-plastic-recycling-1",
     "title": "Introduction to Distributed Recycling",
     "section": "What is Plastic Recycling?",
-    "text": "What is Plastic Recycling?"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#mechanical-recycling",
-    "href": "slides/01-introduction/index.html#mechanical-recycling",
-    "title": "Introduction to Distributed Recycling",
-    "section": "Mechanical Recycling",
-    "text": "Mechanical Recycling"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#the-problem-1",
-    "href": "slides/01-introduction/index.html#the-problem-1",
-    "title": "Introduction to Distributed Recycling",
-    "section": "The problem",
-    "text": "The problem"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#the-problem-2",
-    "href": "slides/01-introduction/index.html#the-problem-2",
-    "title": "Introduction to Distributed Recycling",
-    "section": "The problem",
-    "text": "The problem"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#the-problem-3",
-    "href": "slides/01-introduction/index.html#the-problem-3",
-    "title": "Introduction to Distributed Recycling",
-    "section": "The problem",
-    "text": "The problem\n\nGeyer, R., Jambeck, J.R., Law, K.L., 2017. Production, use, and fate of all plastics ever made. Sci. Adv. 3, e1700782. https://doi.org/10.1126/sciadv.1700782"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#section-1",
-    "href": "slides/01-introduction/index.html#section-1",
-    "title": "Introduction to DRAM",
-    "section": "3.1 ",
-    "text": "3.1"
+    "text": "What is Plastic Recycling?",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
   },
   {
     "objectID": "slides/01-introduction/index.html#what-is-plastic-recycling-2",
     "href": "slides/01-introduction/index.html#what-is-plastic-recycling-2",
     "title": "Introduction to Distributed Recycling",
     "section": "What is Plastic Recycling?",
-    "text": "What is Plastic Recycling?\n\n\n\nReuse: New use of the original object\nMechanical Recycling: Recovers clean plastics products in order to reuse in the manufacturing process\nChemical Recycling: Recover synthesis monomers or feedstock chemicals by depolymerization.\nFeedstock Recycling: Break down the solid polymeric materials into a spectrum of basic chemical components.\nEnergy recovery: Generation of energy (Pyrolisis)\n\n\n\nKranzinger et al (2018). Output-oriented analysis of the wet mechanical processing of polyolefin-rich waste for feedstock recycling. Waste Manag. Res. 36, 445–453"
+    "text": "What is Plastic Recycling?\n\n\n\nReuse: New use of the original object\nMechanical Recycling: Recovers clean plastics products in order to reuse in the manufacturing process\nChemical Recycling: Recover synthesis monomers or feedstock chemicals by depolymerization.\nFeedstock Recycling: Break down the solid polymeric materials into a spectrum of basic chemical components.\nEnergy recovery: Generation of energy (Pyrolisis)\n\n\n\nKranzinger et al (2018). Output-oriented analysis of the wet mechanical processing of polyolefin-rich waste for feedstock recycling. Waste Manag. Res. 36, 445–453",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
   },
   {
-    "objectID": "slides/01-introduction/index.html#why-additive-manufacturing-is-important-according-to-you",
-    "href": "slides/01-introduction/index.html#why-additive-manufacturing-is-important-according-to-you",
+    "objectID": "slides/01-introduction/index.html#mechanical-recycling",
+    "href": "slides/01-introduction/index.html#mechanical-recycling",
     "title": "Introduction to Distributed Recycling",
-    "section": "Why Additive manufacturing is important, according to you?",
-    "text": "Why Additive manufacturing is important, according to you?"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#why-additive-manufacturing-is-important-according-to-you-1",
-    "href": "slides/01-introduction/index.html#why-additive-manufacturing-is-important-according-to-you-1",
-    "title": "Introduction to Distributed Recycling",
-    "section": "Why Additive manufacturing is important, according to you?",
-    "text": "Why Additive manufacturing is important, according to you?"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#open-source-as-driver",
-    "href": "slides/01-introduction/index.html#open-source-as-driver",
-    "title": "Introduction to Distributed Recycling",
-    "section": "Open source as driver",
-    "text": "Open source as driver"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#future-of-additive-manufacturing",
-    "href": "slides/01-introduction/index.html#future-of-additive-manufacturing",
-    "title": "Introduction to Distributed Recycling",
-    "section": "Future of Additive Manufacturing",
-    "text": "Future of Additive Manufacturing"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#test-with-holipresse",
-    "href": "slides/01-introduction/index.html#test-with-holipresse",
-    "title": "Introduction to Distributed Recycling",
-    "section": "Test with holipresse",
-    "text": "Test with holipresse\n\n\n\nIntroduction\n\n\n\n\n\n\n \n\n\nPresentation"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#is-additive-manufacturing-greener-than-traditional-processes",
-    "href": "slides/01-introduction/index.html#is-additive-manufacturing-greener-than-traditional-processes",
-    "title": "Introduction to Distributed Recycling",
-    "section": "Is additive manufacturing greener than traditional processes?",
-    "text": "Is additive manufacturing greener than traditional processes?"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#is-recycling-a-priority-for-additive-manufacturing",
-    "href": "slides/01-introduction/index.html#is-recycling-a-priority-for-additive-manufacturing",
-    "title": "Introduction to Distributed Recycling",
-    "section": "Is recycling a priority for additive manufacturing ?",
-    "text": "Is recycling a priority for additive manufacturing ?"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#in-future-can-3d-printed-everything-is-it-good-or-is-it-bad",
-    "href": "slides/01-introduction/index.html#in-future-can-3d-printed-everything-is-it-good-or-is-it-bad",
-    "title": "Introduction to Distributed Recycling",
-    "section": "In future, can 3D printed everything ? is it ‘good’? or is it ‘bad’?",
-    "text": "In future, can 3D printed everything ? is it ‘good’? or is it ‘bad’?"
-  },
-  {
-    "objectID": "slides/01-introduction/index.html#additive-manufacturing-for-you",
-    "href": "slides/01-introduction/index.html#additive-manufacturing-for-you",
-    "title": "Introduction to Distributed Recycling",
-    "section": "Additive manufacturing for you ?",
-    "text": "Additive manufacturing for you ?"
+    "section": "Mechanical Recycling",
+    "text": "Mechanical Recycling",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
   },
   {
     "objectID": "slides/01-introduction/index.html#additive-manufacturing-value",
     "href": "slides/01-introduction/index.html#additive-manufacturing-value",
     "title": "Introduction to Distributed Recycling",
     "section": "Additive manufacturing value",
-    "text": "Additive manufacturing value\n\nHossain, M., 2020. Additive Manufacturing and the COVID-19 challenges : An in-depth study Additive Manufacturing and the COVID-19 challenges : An in-depth study. https://doi.org/10.13140/RG.2.2.35767.55206"
+    "text": "Additive manufacturing value\n\nHossain, M., 2020. Additive Manufacturing and the COVID-19 challenges : An in-depth study Additive Manufacturing and the COVID-19 challenges : An in-depth study. https://doi.org/10.13140/RG.2.2.35767.55206",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
   },
   {
     "objectID": "slides/01-introduction/index.html#additive-manufacturing-as-biology",
     "href": "slides/01-introduction/index.html#additive-manufacturing-as-biology",
     "title": "Introduction to Distributed Recycling",
     "section": "Additive manufacturing: As biology",
-    "text": "Additive manufacturing: As biology"
+    "text": "Additive manufacturing: As biology",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#open-source-as-driver",
+    "href": "slides/01-introduction/index.html#open-source-as-driver",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Open source as driver",
+    "text": "Open source as driver",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#future-of-additive-manufacturing",
+    "href": "slides/01-introduction/index.html#future-of-additive-manufacturing",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Future of Additive Manufacturing",
+    "text": "Future of Additive Manufacturing",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#test-with-holipresse-center",
+    "href": "slides/01-introduction/index.html#test-with-holipresse-center",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Test with holipresse {.center}",
+    "text": "Test with holipresse {.center}\n:::{#quarto-meta-markdown .hidden} [mve - Introduction to Distributed Recycling]{.hidden render-id=\"quarto-metatitle\"} [mve - Introduction to Distributed Recycling]{.hidden render-id=\"quarto-twittercardtitle\"} [mve - Introduction to Distributed Recycling]{.hidden render-id=\"quarto-ogcardtitle\"} [mve]{.hidden render-id=\"quarto-metasitename\"} []{.hidden render-id=\"quarto-twittercarddesc\"} []{.hidden render-id=\"quarto-ogcardddesc\"} :::\n::: {.quarto-auto-generated-content}\n\n\n::: {.footer .footer-default} Introduction :::\n:::\n\n\n\n\n\n \n\n\nPresentation",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "01-introduction.html#goal",
+    "href": "01-introduction.html#goal",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Goal",
+    "text": "Goal\n\nIntroduction to the Plastic Issues and how Additive Manufacturing can help.\n\n\n\n\n\n\n\n\nG\n\n\n\nAM\n\nAM\n\n\n\nRecycling\n\nRecycling\n\n\n\nAM--Recycling\n\n\n\n\nRecycling--AM\n\n\n\n\nGreen\n\nGreen\n\n\n\nRecycling--Green\n\n\n\n\nGreen--AM\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction"
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#additive-manufacturing-for-you",
+    "href": "slides/01-introduction/index.html#additive-manufacturing-for-you",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Additive manufacturing for you ?",
+    "text": "Additive manufacturing for you ?\nWhat does it means?",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#is-additive-manufacturing-greener-than-traditional-processes",
+    "href": "slides/01-introduction/index.html#is-additive-manufacturing-greener-than-traditional-processes",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Is additive manufacturing greener than traditional processes?",
+    "text": "Is additive manufacturing greener than traditional processes?",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#is-recycling-a-priority-for-additive-manufacturing",
+    "href": "slides/01-introduction/index.html#is-recycling-a-priority-for-additive-manufacturing",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Is recycling a priority for additive manufacturing ?",
+    "text": "Is recycling a priority for additive manufacturing ?",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#in-future-can-3d-printed-everything-is-it-good-or-is-it-bad",
+    "href": "slides/01-introduction/index.html#in-future-can-3d-printed-everything-is-it-good-or-is-it-bad",
+    "title": "Introduction to Distributed Recycling",
+    "section": "In future, can 3D printed everything ? is it ‘good’? or is it ‘bad’?",
+    "text": "In future, can 3D printed everything ? is it ‘good’? or is it ‘bad’?",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#the-problem",
+    "href": "slides/01-introduction/index.html#the-problem",
+    "title": "Introduction to Distributed Recycling",
+    "section": "The problem",
+    "text": "The problem",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#the-problem-1",
+    "href": "slides/01-introduction/index.html#the-problem-1",
+    "title": "Introduction to Distributed Recycling",
+    "section": "The problem",
+    "text": "The problem",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#the-problem-2",
+    "href": "slides/01-introduction/index.html#the-problem-2",
+    "title": "Introduction to Distributed Recycling",
+    "section": "The problem",
+    "text": "The problem",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#the-problem-3",
+    "href": "slides/01-introduction/index.html#the-problem-3",
+    "title": "Introduction to Distributed Recycling",
+    "section": "The problem",
+    "text": "The problem\n\nGeyer, R., Jambeck, J.R., Law, K.L., 2017. Production, use, and fate of all plastics ever made. Sci. Adv. 3, e1700782. https://doi.org/10.1126/sciadv.1700782",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#test-with-holipresse",
+    "href": "slides/01-introduction/index.html#test-with-holipresse",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Test with holipresse",
+    "text": "Test with holipresse\n\n\n\n\nLicence Fab Add – Fabio Cruz 2024\n\n\n\n\n\n\n\n \n\n\nPresentation",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#planning",
+    "href": "slides/01-introduction/index.html#planning",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Planning",
+    "text": "Planning\n\n\n\n📅 Nov 05, 2024  🕒 09:00 - 13:00  📍 LF2L \n\n\n\n\n\nTime\nActivity\n\n\n\n\n09:00 - 9:20\nIntroduction\n\n\n09:20 - 10:15\nAM and Sustainability\n\n\n10:15 - 10:30\nBreak 🍎\n\n\n10:30 - 11:30\nLecture/Preparation of MindMapping\n\n\n12:10 - 13\nDebate and presentation",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#sustainability-greener",
+    "href": "slides/01-introduction/index.html#sustainability-greener",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Sustainability greener?",
+    "text": "Sustainability greener?\nWhat does it evokes to you?",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#what-is-future-for-additive-manufacturing-for-you",
+    "href": "slides/01-introduction/index.html#what-is-future-for-additive-manufacturing-for-you",
+    "title": "Introduction to Distributed Recycling",
+    "section": "What is future for Additive Manufacturing for you?",
+    "text": "What is future for Additive Manufacturing for you?\nIn future, can 3D printed everything ? is it ‘good’? or is it ‘bad’?",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#am-is-greener",
+    "href": "slides/01-introduction/index.html#am-is-greener",
+    "title": "Introduction to Distributed Recycling",
+    "section": "AM is greener?",
+    "text": "AM is greener?\nWhat does it evokes to you?",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#what-is-sustainability-for-you",
+    "href": "slides/01-introduction/index.html#what-is-sustainability-for-you",
+    "title": "Introduction to Distributed Recycling",
+    "section": "What is sustainability for you?",
+    "text": "What is sustainability for you?\nWhat does it evokes to you?",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#what-is-future-for-additive-manufacturing",
+    "href": "slides/01-introduction/index.html#what-is-future-for-additive-manufacturing",
+    "title": "Introduction to Distributed Recycling",
+    "section": "What is future for Additive Manufacturing ?",
+    "text": "What is future for Additive Manufacturing ?\nIn future, can 3D printed everything ? is it ‘good’? or is it ‘bad’?",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#what-is-the-future-for-additive-manufacturing",
+    "href": "slides/01-introduction/index.html#what-is-the-future-for-additive-manufacturing",
+    "title": "Introduction to Distributed Recycling",
+    "section": "What is the future for Additive Manufacturing ?",
+    "text": "What is the future for Additive Manufacturing ?\nIn future, can 3D printed everything ? is it ‘good’? or is it ‘bad’?",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#section-4",
+    "href": "slides/01-introduction/index.html#section-4",
+    "title": "Introduction to Distributed Recycling",
+    "section": "",
+    "text": "Geyer, R., Jambeck, J.R., Law, K.L., 2017. Production, use, and fate of all plastics ever made. Sci. Adv. 3, e1700782. https://doi.org/10.1126/sciadv.1700782",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#section-3",
+    "href": "slides/01-introduction/index.html#section-3",
+    "title": "Introduction to Distributed Recycling",
+    "section": "",
+    "text": "Geyer, R., Jambeck, J.R., Law, K.L., 2017. Production, use, and fate of all plastics ever made. Sci. Adv. 3, e1700782. https://doi.org/10.1126/sciadv.1700782",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#unnumbered-background-imagehttpsraw.githubusercontent.comfabbiocruxfiguresmainplasticsplastic-problem-03.svg-background-size80-background-position-10-90",
+    "href": "slides/01-introduction/index.html#unnumbered-background-imagehttpsraw.githubusercontent.comfabbiocruxfiguresmainplasticsplastic-problem-03.svg-background-size80-background-position-10-90",
+    "title": "Introduction to Distributed Recycling",
+    "section": "{.unnumbered background-image=https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-03.svg background-size=80% background-position= “10% 90%” }",
+    "text": "{.unnumbered background-image=https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-03.svg background-size=80% background-position= “10% 90%” }\n\nGeyer, R., Jambeck, J.R., Law, K.L., 2017. Production, use, and fate of all plastics ever made. Sci. Adv. 3, e1700782. https://doi.org/10.1126/sciadv.1700782",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#future-distributed-recycling",
+    "href": "slides/01-introduction/index.html#future-distributed-recycling",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Future: Distributed recycling",
+    "text": "Future: Distributed recycling",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#future-distributed-recycling-via-additive-manufacturing",
+    "href": "slides/01-introduction/index.html#future-distributed-recycling-via-additive-manufacturing",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Future: Distributed recycling via Additive Manufacturing",
+    "text": "Future: Distributed recycling via Additive Manufacturing",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#future-of-additive-manufacturing-2",
+    "href": "slides/01-introduction/index.html#future-of-additive-manufacturing-2",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Future of Additive Manufacturing 2",
+    "text": "Future of Additive Manufacturing 2",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#distributed-recycling-via-additive-manufacturing-dram",
+    "href": "slides/01-introduction/index.html#distributed-recycling-via-additive-manufacturing-dram",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Distributed recycling via additive manufacturing (DRAM)",
+    "text": "Distributed recycling via additive manufacturing (DRAM)\n\n\n\n\nLocal closed loop\n\nAM adds value\n\nSmall quantities\n\nReduction of landfilling\n\nMinimize the use of virgin materials",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#distributed-recycling-via-additive-manufacturing-dram-1",
+    "href": "slides/01-introduction/index.html#distributed-recycling-via-additive-manufacturing-dram-1",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Distributed recycling via additive manufacturing (DRAM)",
+    "text": "Distributed recycling via additive manufacturing (DRAM)",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#dram-techncial-system",
+    "href": "slides/01-introduction/index.html#dram-techncial-system",
+    "title": "Introduction to Distributed Recycling",
+    "section": "DRAM : Techncial System",
+    "text": "DRAM : Techncial System",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#dram-logistical-system",
+    "href": "slides/01-introduction/index.html#dram-logistical-system",
+    "title": "Introduction to Distributed Recycling",
+    "section": "DRAM : Logistical System",
+    "text": "DRAM : Logistical System",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#dram-machine-level",
+    "href": "slides/01-introduction/index.html#dram-machine-level",
+    "title": "Introduction to Distributed Recycling",
+    "section": "DRAM: Machine level",
+    "text": "DRAM: Machine level",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#dram-machine-level-1",
+    "href": "slides/01-introduction/index.html#dram-machine-level-1",
+    "title": "Introduction to Distributed Recycling",
+    "section": "DRAM: Machine level",
+    "text": "DRAM: Machine level",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#dram",
+    "href": "slides/01-introduction/index.html#dram",
+    "title": "Introduction to Distributed Recycling",
+    "section": "DRAM",
+    "text": "DRAM",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#dram-process",
+    "href": "slides/01-introduction/index.html#dram-process",
+    "title": "Introduction to Distributed Recycling",
+    "section": "DRAM: Process",
+    "text": "DRAM: Process",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#dram-process-1",
+    "href": "slides/01-introduction/index.html#dram-process-1",
+    "title": "Introduction to Distributed Recycling",
+    "section": "DRAM: Process",
+    "text": "DRAM: Process",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#dram-process-2",
+    "href": "slides/01-introduction/index.html#dram-process-2",
+    "title": "Introduction to Distributed Recycling",
+    "section": "DRAM: Process",
+    "text": "DRAM: Process",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#dram-logistical",
+    "href": "slides/01-introduction/index.html#dram-logistical",
+    "title": "Introduction to Distributed Recycling",
+    "section": "DRAM: Logistical",
+    "text": "DRAM: Logistical",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#dram-collection",
+    "href": "slides/01-introduction/index.html#dram-collection",
+    "title": "Introduction to Distributed Recycling",
+    "section": "DRAM: Collection",
+    "text": "DRAM: Collection",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#dram-logistical-1",
+    "href": "slides/01-introduction/index.html#dram-logistical-1",
+    "title": "Introduction to Distributed Recycling",
+    "section": "DRAM: Logistical",
+    "text": "DRAM: Logistical",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#dram-collection-1",
+    "href": "slides/01-introduction/index.html#dram-collection-1",
+    "title": "Introduction to Distributed Recycling",
+    "section": "DRAM: Collection",
+    "text": "DRAM: Collection",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#dram-social",
+    "href": "slides/01-introduction/index.html#dram-social",
+    "title": "Introduction to Distributed Recycling",
+    "section": "DRAM: Social",
+    "text": "DRAM: Social",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#dram-social-indicators",
+    "href": "slides/01-introduction/index.html#dram-social-indicators",
+    "title": "Introduction to Distributed Recycling",
+    "section": "DRAM: Social Indicators",
+    "text": "DRAM: Social Indicators",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#dram-towards-a-complete-process",
+    "href": "slides/01-introduction/index.html#dram-towards-a-complete-process",
+    "title": "Introduction to Distributed Recycling",
+    "section": "DRAM: Towards a complete process",
+    "text": "DRAM: Towards a complete process",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#task",
+    "href": "slides/01-introduction/index.html#task",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Task",
+    "text": "Task\n\nFaire un Mind mapping et faire une restitution sur les articles suivantes:\nL’Impression 3D dans une perspective de développemnt durable\nRecyclage des déchets d’impression 3D\nFabrication Additive: état des lieux d’une veille sectorielle et technologique\nFabrication additive: Révolution ou simple évolution sociétale?\n\n\n\n\n\nLicence Fab Add – Fabio Cruz 2024\n\n\n\n\n\n\n\n \n\n\nPresentation",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
+  },
+  {
+    "objectID": "slides/01-introduction/index.html#travail-à-faire",
+    "href": "slides/01-introduction/index.html#travail-à-faire",
+    "title": "Introduction to Distributed Recycling",
+    "section": "Travail à faire",
+    "text": "Travail à faire\n\n\n\n\nChoisissez un texte parmi les lectures proposées :\n\n\nL’impression 3D dans une perspective de développement durable\nRecyclage des déchets d’impression 3D\nFabrication additive : état des lieux d’une veille sectorielle et technologique\nFabrication additive : révolution ou simple évolution sociétale ?\n\n\n\n\nCréez un mindmap à partir de la lecture choisie, en mettant en avant les éléments suivants :\n\n\nLes points principaux abordés dans le texte\nLes contradictions ou limites identifiées\nLes éléments importants à retenir ou à approfondir\n\n\n\n\n\n\nPrésentez votre mindmap au groupe, en expliquant de manière concise les idées essentielles et en justifiant les choix de mise en évidence.\nObjectifs de la restitution :\n\n\nPartager avec le groupe votre compréhension du texte\nStimuler la discussion autour des enjeux de la fabrication additive et de son impact sociétal et environnemental\n\n\n\n\n\n\nLicence Fab Add – Fabio Cruz 2024\n\n\n\n\n\n\n\n \n\n\nPresentation",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "Introduction to Distributed Recycling"
+    ]
   }
 ]

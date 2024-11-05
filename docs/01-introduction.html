@@ -1,27 +1,23 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-html/tabby.min.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/quarto-contrib/reveal-header-1.0.0/add_header.js" defer="true"></script>
-<link href="../../site_libs/quarto-contrib/reveal-header-1.0.0/add_header.css" rel="stylesheet">
-<link href="../../site_libs/quarto-contrib/grid-htext-1.0.0/grid_htext.css" rel="stylesheet">
-<link href="../../site_libs/quarto-contrib/reveal-auto-agenda-0.0.3/reveal-auto-agenda.css" rel="stylesheet"><meta charset="utf-8">
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-html/tabby.min.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.4.554">
 
   <meta name="author" content="MdC. Fabio A. CRUZ SANCHEZ">
-  <meta name="dcterms.date" content="2024-11-05">
+  <meta name="dcterms.date" content="2024-11-11">
   <title>mve - Introduction to Distributed Recycling</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-  <link rel="stylesheet" href="../../site_libs/revealjs/dist/reset.css">
-  <link rel="stylesheet" href="../../site_libs/revealjs/dist/reveal.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reveal.css">
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -35,13 +31,11 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto.css">
-  <link href="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
-  <link href="../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
-  <link href="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
-  <link href="../../site_libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
-  <link href="../../site_libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
-  <link href="../../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto.css">
+  <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
   <style type="text/css">
 
   .callout {
@@ -334,7 +328,7 @@
 
 <section id="title-slide" class="quarto-title-block center">
   <h1 class="title">Introduction to Distributed Recycling</h1>
-  <p class="subtitle"><img src="../../figures/ENSGSI.png" width="500"></p>
+  <p class="subtitle"><img src="figures/ENSGSI.png" width="500"></p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -347,126 +341,64 @@ MdC. Fabio A. CRUZ SANCHEZ
     </div>
 </div>
 
-  <p class="date">2024-11-05</p>
-</section>
-<section id="planning" class="slide level2 unnumbered no-auto-agenda">
-<h2>Planning</h2>
-<div class="quarto-layout-panel" data-layout="[30,70]">
-<div class="quarto-layout-row">
-<div class="column quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
-<p>📅 Nov 05, 2024 <br> 🕒 09:00 - 13:00 <br> 📍 LF2L <br></p>
-</div>
-<div class="column quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
-<table>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Time</th>
-<th style="text-align: left;">Activity</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">09:00 - 9:20</td>
-<td style="text-align: left;">Introduction</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">09:20 - 10:15</td>
-<td style="text-align: left;">AM and Sustainability</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">10:15 - 10:30</td>
-<td style="text-align: left;"><em>Break</em> 🍎</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">10:30 - 11:30</td>
-<td style="text-align: left;">Lecture/Preparation of MindMapping</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">12:10 - 13</td>
-<td style="text-align: left;">Debate and presentation</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-</section>
-<section class="slide level2">
-
+  <p class="date">2024-11-11</p>
 </section>
 <section>
-<section id="goal-inspiration" class="title-slide slide level1 agenda-slide center">
+<section id="goal-inspiration" class="title-slide slide level1 center">
 <h1>Goal &amp; Inspiration</h1>
-<div class="agenda-heading">
-<p>Agenda for today</p>
-</div>
-<div class="agenda">
-<ol>
-<li><div class="agenda-active">
-<p>Goal &amp; Inspiration</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Plastic Issues &amp; Distibuted Recycling</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>How Additive Manufacturing can contribute?</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Lecture / Debate</p>
-</div></li>
-</ol>
-</div>
+
 </section>
 <section id="goal" class="slide level2">
 <h2>Goal</h2>
-<p>Introduction to the <strong>Additive Manufacturing</strong> can help to the <strong><em>Sustainability</em></strong> 🌎.</p>
-<p>Particularly to Plastic Issues ♻️.</p>
-<div class="cell" data-layout-align="center">
+<blockquote>
+<p>Introduction to the Plastic Issues and how Additive Manufacturing can help.</p>
+</blockquote>
+<div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
 <p></p><figure class=""><p></p>
 <div>
-<svg width="960" height="480" viewbox="0.00 0.00 157.95 106.41" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" style="; max-width: none; max-height: none; display: block; margin: auto auto auto auto">
+<svg width="960" height="480" viewbox="0.00 0.00 157.39 106.41" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" style="; max-width: none; max-height: none; display: block; margin: auto auto auto auto">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 102.41)">
 <title>G</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-102.41 153.95,-102.41 153.95,4 -4,4"></polygon>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-102.41 153.39,-102.41 153.39,4 -4,4"></polygon>
 <!-- AM -->
 <g id="node1" class="node">
 <title>AM</title>
-<ellipse fill="none" stroke="black" cx="27.56" cy="-79.93" rx="27" ry="18"></ellipse>
-<text text-anchor="middle" x="27.56" y="-75.73" font-family="Times,serif" font-size="14.00">AM</text>
+<ellipse fill="none" stroke="black" cx="27" cy="-79.93" rx="27" ry="18"></ellipse>
+<text text-anchor="middle" x="27" y="-75.73" font-family="Times,serif" font-size="14.00">AM</text>
 </g>
 <!-- Recycling -->
 <g id="node2" class="node">
 <title>Recycling</title>
-<ellipse fill="none" stroke="black" cx="99.76" cy="-80.41" rx="50.38" ry="18"></ellipse>
-<text text-anchor="middle" x="99.76" y="-76.21" font-family="Times,serif" font-size="14.00">Recycling</text>
+<ellipse fill="none" stroke="black" cx="99.21" cy="-80.41" rx="50.38" ry="18"></ellipse>
+<text text-anchor="middle" x="99.21" y="-76.21" font-family="Times,serif" font-size="14.00">Recycling</text>
 </g>
 <!-- AM&#45;&#45;Recycling -->
 <g id="edge1" class="edge">
 <title>AM--Recycling</title>
-<path fill="none" stroke="black" d="M52.77,-86.57C52.93,-86.58 53.09,-86.59 53.26,-86.6"></path>
+<path fill="none" stroke="black" d="M52.21,-86.57C52.37,-86.58 52.54,-86.59 52.7,-86.6"></path>
 </g>
 <!-- Recycling&#45;&#45;AM -->
 <g id="edge3" class="edge">
 <title>Recycling--AM</title>
-<path fill="none" stroke="black" d="M53.26,-73.61C53.15,-73.61 53.04,-73.62 52.93,-73.62"></path>
+<path fill="none" stroke="black" d="M52.7,-73.61C52.59,-73.61 52.48,-73.62 52.38,-73.62"></path>
 </g>
-<!-- Sustainability -->
+<!-- Green -->
 <g id="node3" class="node">
-<title>Sustainability</title>
-<ellipse fill="none" stroke="black" cx="64.15" cy="-18" rx="64.3" ry="18"></ellipse>
-<text text-anchor="middle" x="64.15" y="-13.8" font-family="Times,serif" font-size="14.00">Sustainability</text>
+<title>Green</title>
+<ellipse fill="none" stroke="black" cx="63.59" cy="-18" rx="34.75" ry="18"></ellipse>
+<text text-anchor="middle" x="63.59" y="-13.8" font-family="Times,serif" font-size="14.00">Green</text>
 </g>
-<!-- Sustainability&#45;&#45;AM -->
-<g id="edge4" class="edge">
-<title>Sustainability--AM</title>
-<path fill="none" stroke="black" d="M53.57,-35.91C48.5,-44.49 42.47,-54.7 37.49,-63.12"></path>
-</g>
-<!-- Sustainability&#45;&#45;Recycling -->
+<!-- Recycling&#45;&#45;Green -->
 <g id="edge2" class="edge">
-<title>Sustainability--Recycling</title>
-<path fill="none" stroke="black" d="M74.45,-36.05C79.22,-44.4 84.86,-54.29 89.61,-62.61"></path>
+<title>Recycling--Green</title>
+<path fill="none" stroke="black" d="M89.1,-62.69C84.24,-54.19 78.44,-44.03 73.6,-35.54"></path>
+</g>
+<!-- Green&#45;&#45;AM -->
+<g id="edge4" class="edge">
+<title>Green--AM</title>
+<path fill="none" stroke="black" d="M53.4,-35.25C48.32,-43.84 42.21,-54.2 37.14,-62.77"></path>
 </g>
 </g>
 </svg>
@@ -475,291 +407,10 @@ MdC. Fabio A. CRUZ SANCHEZ
 </div>
 </div>
 </div>
-</section>
-<section id="additive-manufacturing-for-you" class="slide level2 center">
-<h2>Additive manufacturing for you ?</h2>
-<p>What does it means?</p>
-</section>
-<section id="what-is-sustainability-for-you" class="slide level2 center">
-<h2>What is sustainability for you?</h2>
-<p>What does it evokes to you?</p>
-</section>
-<section id="what-is-the-future-for-additive-manufacturing" class="slide level2 center">
-<h2>What is the future for Additive Manufacturing ?</h2>
-<p>In future, can 3D printed everything ? is it ‘good’? or is it ‘bad’?</p>
-</section>
-<section id="inspiration" class="slide level2">
-<h2>Inspiration</h2>
-<iframe data-external="1" src="https://www.youtube.com/embed/Os7dREQ00l4" width="70%" height="700" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p>https://preciousplastic.com/</p>
-</section></section>
-<section>
-<section id="plastic-issues-distibuted-recycling" class="title-slide slide level1 agenda-slide center">
-<h1>Plastic Issues &amp; Distibuted Recycling</h1>
-<div class="agenda-heading">
-<p>Agenda for today</p>
-</div>
-<div class="agenda">
-<ol>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Goal &amp; Inspiration</p>
-</div></li>
-<li><div class="agenda-active">
-<p>Plastic Issues &amp; Distibuted Recycling</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>How Additive Manufacturing can contribute?</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Lecture / Debate</p>
-</div></li>
-</ol>
-</div>
-</section>
-<section id="plastics" class="slide level2">
-<h2>Plastics</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastics-01.png" class="quarto-figure quarto-figure-center r-stretch" style="width:90.0%"><p>Source. Plastics Europe 2018</p>
-</section>
-<section id="section" class="slide level2 unnumbered" data-background-image="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-00.jpg" data-background-size="80%">
-<h2></h2>
-</section>
-<section id="section-1" class="slide level2 unnumbered" data-background-image="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-01.jpg" data-background-size="80%">
-<h2></h2>
-</section>
-<section id="section-2" class="slide level2 unnumbered" data-background-image="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-02.jpg" data-background-size="80%">
-<h2></h2>
-</section>
-<section id="section-3" class="slide level2 unnumbered" data-background-image="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Plastics/Plastic-problem-03.svg" data-background-size="70%" data-background-position="50% 70%">
-<h2></h2>
-<div class="tiny">
-<p>Geyer, R., Jambeck, J.R., Law, K.L., 2017. Production, use, and fate of all plastics ever made. Sci. Adv. 3, e1700782. <a href="https://doi.org/10.1126/sciadv.1700782">https://doi.org/10.1126/sciadv.1700782</a></p>
-</div>
-</section>
-<section id="what-is-plastic-recycling" class="slide level2">
-<h2>What is Plastic Recycling?</h2>
-</section>
-<section id="what-is-plastic-recycling-1" class="slide level2">
-<h2>What is Plastic Recycling?</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Recycling/Polymer-recycling-01.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section>
-<section id="what-is-plastic-recycling-2" class="slide level2">
-<h2>What is Plastic Recycling?</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Recycling/Polymer-recycling-00.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><div class="scriptsize">
-<ul>
-<li><strong>Reuse</strong>: New use of the original object</li>
-<li><strong>Mechanical Recycling:</strong> Recovers clean plastics products in order to reuse in the manufacturing process</li>
-<li>Chemical Recycling: Recover synthesis monomers or feedstock chemicals by depolymerization.</li>
-<li>Feedstock Recycling: Break down the solid polymeric materials into a spectrum of basic chemical components.</li>
-<li>Energy recovery: Generation of energy (Pyrolisis)</li>
-</ul>
-</div>
-<div class="footnote">
-<p>Kranzinger et al (2018). Output-oriented analysis of the wet mechanical processing of polyolefin-rich waste for feedstock recycling. Waste Manag. Res. 36, 445–453</p>
-</div>
-</section>
-<section id="mechanical-recycling" class="slide level2">
-<h2>Mechanical Recycling</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Recycling/Mechanical/Mechanical-recycling-00.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section></section>
-<section>
-<section id="how-additive-manufacturing-can-contribute" class="title-slide slide level1 agenda-slide center">
-<h1>How Additive Manufacturing can contribute?</h1>
-<div class="agenda-heading">
-<p>Agenda for today</p>
-</div>
-<div class="agenda">
-<ol>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Goal &amp; Inspiration</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Plastic Issues &amp; Distibuted Recycling</p>
-</div></li>
-<li><div class="agenda-active">
-<p>How Additive Manufacturing can contribute?</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Lecture / Debate</p>
-</div></li>
-</ol>
-</div>
-</section>
-<section id="additive-manufacturing-value" class="slide level2">
-<h2>Additive manufacturing value</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/AM/Importance/AM-Importance-00.png" style="width:70.0%" class="r-stretch quarto-figure-center"><p class="caption">Hossain, M., 2020. Additive Manufacturing and the COVID-19 challenges : An in-depth study Additive Manufacturing and the COVID-19 challenges : An in-depth study. https://doi.org/10.13140/RG.2.2.35767.55206</p></section>
-<section id="additive-manufacturing-as-biology" class="slide level2">
-<h2>Additive manufacturing: As biology</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/AM/OS/Reprap-00.jpg" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section>
-<section id="open-source-as-driver" class="slide level2">
-<h2>Open source as driver</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/AM/OS/Reprap-01.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section>
-<section id="future-of-additive-manufacturing" class="slide level2">
-<h2>Future of Additive Manufacturing</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/AM/Future/Future-01.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="future-distributed-recycling-via-additive-manufacturing" class="slide level2">
-<h2>Future: Distributed recycling via Additive Manufacturing</h2>
-</section>
-<section id="distributed-recycling-via-additive-manufacturing-dram" class="slide level2">
-<h2>Distributed recycling via additive manufacturing (DRAM)</h2>
-<div class="quarto-layout-panel" data-layout="[30,70]">
-<div class="quarto-layout-row">
-<div class="column quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
-<ul>
-<li>Local closed loop<br>
-</li>
-<li>AM adds value<br>
-</li>
-<li>Small quantities<br>
-</li>
-<li>Reduction of landfilling<br>
-</li>
-<li>Minimize the use of virgin materials</li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Green-Fablab/Logo-GF.png" class="quarto-figure quarto-figure-center" style="width:80.0%"></p>
-</figure>
-</div>
-</div>
-<div class="column quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Green-Fablab/Green-fablab-2.jpg" class="quarto-figure quarto-figure-center" style="width:100.0%"></p>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id="dram-techncial-system" class="slide level2">
-<h2>DRAM : Techncial System</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Thesis/Recycling-00.jpg" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section>
-<section id="dram-logistical-system" class="slide level2">
-<h2>DRAM : Logistical System</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Pavlo/Pavlo-00.jpg" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section>
-<section id="dram-machine-level" class="slide level2">
-<h2>DRAM: Machine level</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/DRAM/SDRAM-04.jpg" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section>
-<section id="dram-machine-level-1" class="slide level2">
-<h2>DRAM: Machine level</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Articles/2020-Artur/Artur-01.jpg" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section>
-<section id="dram-process" class="slide level2">
-<h2>DRAM: Process</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/DRAM/SDRAM-05.jpg" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section>
-<section id="dram-process-1" class="slide level2">
-<h2>DRAM: Process</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Articles/2022-Diego/Results.jpg" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section>
-<section id="dram-logistical" class="slide level2">
-<h2>DRAM: Logistical</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/DRAM/SDRAM-06.jpg" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section>
-<section id="dram-collection" class="slide level2">
-<h2>DRAM: Collection</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/smart-collector/SM-mdc.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section>
-<section id="dram-social" class="slide level2">
-<h2>DRAM: Social</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/DRAM/SDRAM-07.jpg" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section>
-<section id="dram-social-indicators" class="slide level2">
-<h2>DRAM: Social Indicators</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Articles/2022-Pavlo/Results-01.jpg" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section>
-<section id="dram-towards-a-complete-process" class="slide level2">
-<h2>DRAM: Towards a complete process</h2>
-
-<img data-src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/DRAM/SDRAM-00.svg" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section></section>
-<section>
-<section id="lecture-debate" class="title-slide slide level1 agenda-slide center">
-<h1>Lecture / Debate</h1>
-<div class="agenda-heading">
-<p>Agenda for today</p>
-</div>
-<div class="agenda">
-<ol>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Goal &amp; Inspiration</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Plastic Issues &amp; Distibuted Recycling</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>How Additive Manufacturing can contribute?</p>
-</div></li>
-<li><div class="agenda-active">
-<p>Lecture / Debate</p>
-</div></li>
-</ol>
-</div>
-</section>
-<section id="travail-à-faire" class="slide level2">
-<h2>Travail à faire</h2>
-<div class="quarto-layout-panel" data-layout="[50,50]">
-<div class="quarto-layout-row">
-<div class="tiny quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<ol type="1">
-<li><strong>Choisissez un texte parmi les lectures proposées :</strong></li>
-</ol>
-<ul>
-<li>L’impression 3D dans une perspective de développement durable</li>
-<li>Recyclage des déchets d’impression 3D</li>
-<li>Fabrication additive : état des lieux d’une veille sectorielle et technologique</li>
-<li>Fabrication additive : révolution ou simple évolution sociétale ?</li>
-</ul>
-</div>
-<div class="tiny quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<ol start="2" type="1">
-<li><strong>Créez un mindmap</strong> à partir de la lecture choisie, en mettant en avant les éléments suivants :</li>
-</ol>
-<ul>
-<li>Les points principaux abordés dans le texte</li>
-<li>Les contradictions ou limites identifiées</li>
-<li>Les éléments importants à retenir ou à approfondir</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="tiny">
-<ol start="3" type="1">
-<li><p><strong>Présentez votre mindmap au groupe</strong>, en expliquant de manière concise les idées essentielles et en justifiant les choix de mise en évidence.</p></li>
-<li><p><strong>Objectifs de la restitution :</strong></p></li>
-</ol>
-<ul>
-<li>Partager avec le groupe votre compréhension du texte</li>
-<li>Stimuler la discussion autour des enjeux de la fabrication additive et de son impact sociétal et environnemental</li>
-</ul>
-</div>
 
 <div class="quarto-auto-generated-content">
-<p><img src="../../figures/ENSGSI.png" class="slide-logo"></p>
 <div class="footer footer-default">
-<p>Licence Fab Add – Fabio Cruz 2024</p>
-</div>
-</div>
-<div class="reveal-header">
-<div class="header-logo">
-<img data-src="../../figures/UL.png">
-</div>
-<div class="sc-title">
-<p> </p>
-</div>
-<div class="header-text">
-<p>Presentation</p>
-</div>
-<div class="sb-title">
-<p> </p>
+<p>Introduction</p>
 </div>
 </div>
 </section></section>
@@ -767,20 +418,19 @@ MdC. Fabio A. CRUZ SANCHEZ
   </div>
 
   <script>window.backupDefine = window.define; window.define = undefined;</script>
-  <script src="../../site_libs/revealjs/dist/reveal.js"></script>
+  <script src="site_libs/revealjs/dist/reveal.js"></script>
   <!-- reveal.js plugins -->
-  <script src="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
-  <script src="../../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
-  <script src="../../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
-  <script src="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
-  <script src="../../site_libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
-  <script src="../../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  <script src="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="site_libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
-  <script src="../../site_libs/revealjs/plugin/notes/notes.js"></script>
-  <script src="../../site_libs/revealjs/plugin/search/search.js"></script>
-  <script src="../../site_libs/revealjs/plugin/zoom/zoom.js"></script>
-  <script src="../../site_libs/revealjs/plugin/math/math.js"></script>
+  <script src="site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="site_libs/revealjs/plugin/math/math.js"></script>
   <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
 
   <script>
@@ -788,18 +438,17 @@ MdC. Fabio A. CRUZ SANCHEZ
       // Full list of configuration options available at:
       // https://revealjs.com/config/
       Reveal.initialize({
-'controlsAuto': false,
+'controlsAuto': true,
 'previewLinksAuto': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
 'autoAnimateUnmatched': true,
-'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
-'chalkboard': {"buttons":true},
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'smaller': false,
  
         // Display controls in the bottom right corner
-        controls: true,
+        controls: false,
 
         // Help the user learn the controls by providing hints, for example by
         // bouncing the down arrow when they first encounter a vertical slide
@@ -816,7 +465,7 @@ MdC. Fabio A. CRUZ SANCHEZ
         progress: true,
 
         // Display the page number of the current slide
-        slideNumber: 'c/t',
+        slideNumber: false,
 
         // 'all', 'print', or 'speaker'
         showSlideNumber: 'all',
@@ -941,9 +590,9 @@ MdC. Fabio A. CRUZ SANCHEZ
         // The "normal" size of the presentation, aspect ratio will be preserved
         // when the presentation is scaled to fit different resolutions. Can be
         // specified using percentage units.
-        width: 1600,
+        width: 1050,
 
-        height: 900,
+        height: 700,
 
         // Factor of the display size that should remain empty around the content
         margin: 0.1,
@@ -966,7 +615,7 @@ MdC. Fabio A. CRUZ SANCHEZ
         },
 
         // reveal.js plugins
-        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, QuartoSupport,
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
 
           RevealMath,
           RevealNotes,
@@ -975,44 +624,6 @@ MdC. Fabio A. CRUZ SANCHEZ
         ]
       });
     </script>
-    
-    <script>
-      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
-      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
-      // slide changes (different for each slide format).
-      (function () {
-        // dispatch for htmlwidgets
-        function fireSlideEnter() {
-          const event = window.document.createEvent("Event");
-          event.initEvent("slideenter", true, true);
-          window.document.dispatchEvent(event);
-        }
-
-        function fireSlideChanged(previousSlide, currentSlide) {
-          fireSlideEnter();
-
-          // dispatch for shiny
-          if (window.jQuery) {
-            if (previousSlide) {
-              window.jQuery(previousSlide).trigger("hidden");
-            }
-            if (currentSlide) {
-              window.jQuery(currentSlide).trigger("shown");
-            }
-          }
-        }
-
-        // hookup for slidy
-        if (window.w3c_slidy) {
-          window.w3c_slidy.add_observer(function (slide_num) {
-            // slide_num starts at position 1
-            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
-          });
-        }
-
-      })();
-    </script>
-
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {

@@ -1,4 +1,3 @@
-from: gfm+autolink_bare_uris
 format:
   revealjs:
     slide-number: c/t
